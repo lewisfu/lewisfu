@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lewisfu
+- 👋 Hi, I’m @lewisfu. I am currently with Generation Singapore as a trainee in Cloud Support/DevOps.
 - 👀 I’m interested in learning more about Python and coding on this platform.
 - 🌱 I’m currently learning Linux, Python. Mainly skills related to Cloud Support and DevOps.
 - 💞️ I’m looking to find out more resources on how to become a better devOps engineer.
