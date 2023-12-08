@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Linux, Python. Mainly skills related to Cloud Support and DevOps.
 - 💞️ I’m looking to find out more resources on how to become a better devOps engineer.
   
-- These are the things I'm planning to achieve in 10 months
+- These are the my learning objectives in the next 10 months:
 1. Learn AWS, get cert in AWS Certified Cloud Practitioner
 2. Learn Azure, get cert in Microsoft Certified: Azure Fundamentals
 3. Learn Agile, get cert in Certified ScrumMaster
@@ -14,7 +14,7 @@
 5. Learn Kubernates
 6. Learn SQL, Azure Data Fundamentals
 7. Learn Data Science, get cert in Microsoft Certified: Data Analyst Associate
-  
+8. Learn a new language: Bahasa Melayu/Indonesia  
 
 <!---
 lewisfu/lewisfu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
