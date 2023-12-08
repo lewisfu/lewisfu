@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lewisfu. I am currently with Generation Singapore as a trainee in Cloud Support/DevOps.
+- 👋 Hi, I’m Zixiang. I am currently with Generation Singapore as a trainee in Cloud Support/DevOps.
 - I used to work in Sales and Marketing for 12 years, managing business relations and bringing in new products for the Sign industry.
 - Now, I'm happy to do a mid-career transition to IT as I believe it offers a much more exciting and rewarding pathway for my career.
   
